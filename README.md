@@ -18,6 +18,7 @@ Eu sou o Fábio Ferreira :wink:,estudante : de engenharia de software :pencil2::
 <a href="https://www.linkedin.com/in/f%C3%A1bio-do-ros%C3%A1rio-ferreira-48010857/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <br>
 <br>
+<h4>STATUS</h4>
 
 ![Fábio stats](https://github-readme-stats.vercel.app/api?username=FabioFerreirar&show_icons=true&theme=radical)
 
