@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Eu sou o Fábio Ferreira :wink:,estudante : de engenharia de software :pencil2::books: e, atualmente, aprendo as tecnologias:
+Eu sou o Fábio Ferreira :wink:,estudante de engenharia de software :pencil2::books: e, atualmente, aprendo as tecnologias:
 
 <a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5-logo"></a>
 <br>
